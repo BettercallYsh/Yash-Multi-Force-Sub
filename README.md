@@ -6,7 +6,7 @@
 
 ##
 
-**Credit - [@CodeXbotz](https://t.me/CodeXBotz)** [@MR_V_BOTS(https://t.me/mr_v_bots)**
+**Credit - [@CodeXbotz](https://t.me/CodeXBotz)** [@MR_V_BOTS](https://t.me/mr_v_bots)**
 
 
 
