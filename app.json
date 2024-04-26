@@ -76,7 +76,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "performance-m"
+      "size": "standard-1x"
     }
   }
 }
